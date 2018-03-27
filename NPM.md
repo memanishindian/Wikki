@@ -7,3 +7,5 @@ Ans. npm is written in Node.js, so you need to install Node.js in order to use n
   Check globaly installed package
 
     npm ls -g
+ # Uninstalling a module.
+    npm uninstall module_name

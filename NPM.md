@@ -11,3 +11,7 @@ Ans. npm is written in Node.js, so you need to install Node.js in order to use n
     npm uninstall module_name
  # Updating a Module
     npm update module_name
+ # Search a Module
+    npm search module_npm
+ # create a module
+    npm init

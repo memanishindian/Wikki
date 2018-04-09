@@ -1,4 +1,6 @@
 
+<image-name><-- which is stored in dockerhub
+:tag<---------- version no. of images, this is optional.
 To pull docker images form docker hub, we can use 
 
     $docker pull <docker-image:tag>

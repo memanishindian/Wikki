@@ -16,3 +16,6 @@ To run the image we can use the conmmand:
  To list down all containers(even its running or not):
     
     $docker ps-a
+ To remove the image
+ 
+    $docker rmi -f <image-name/image-id>

@@ -7,6 +7,9 @@ To pull docker images form docker hub, we can use
 To run the image we can use the conmmand:
 
     $docker run <image-name:tag> or $docker run <image-id>
+ (After Running the image it creates the container)
+ 
+ 
  To list down all images in our system, we can give the command:
  
     $docker images

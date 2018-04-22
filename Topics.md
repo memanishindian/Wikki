@@ -18,18 +18,18 @@ remote access data desktop
 
    -  [Chart js](https://www.chartjs.org/)
 
-   -  [0to255](www.0to255.com/)
+   -  [0to255](https://www.0to255.com/)
    
    ### :point_right:   Github Emoji [cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/):bowtie:
    
    
    ### :point_right:   Wysiwyg editors :clipboard:
-   -   Super Simple WYSIWYG Editor on Bootstrap [Summernote](summernote.org/) is a JavaScript library that helps you create WYSIWYG editors online.
+   -   Super Simple WYSIWYG Editor on Bootstrap [Summernote](https://summernote.org/) is a JavaScript library that helps you create WYSIWYG editors online.
 
-   -   [GetContentTools](getcontenttools.com/
+   -   [GetContentTools](https://getcontenttools.com/
 ) is a collection of small, flexible, extensible and framework agnostic JavaScript libraries for creating beautiful WYSIWYG editors for HTML content.
 ### :point_right:  Drag & Drop Zone
-   - [dropzone.js](www.dropzonejs.com/)
+   - [dropzone.js](https://www.dropzonejs.com/)
 ### :point_right:  JS Animation
   - [greensock](https://greensock.com/)
   -  [threejs](https://threejs.org/)
@@ -37,6 +37,5 @@ remote access data desktop
 ### :point_right: Mobile interact
   - [interactjs](interactjs.io/)
   
-  [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
   
 

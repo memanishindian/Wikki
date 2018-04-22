@@ -8,9 +8,9 @@ remote access data desktop
  link  https://anydesk.com/download
  
  
- ### Can Integrate with Django
+ ###  :point_right:    Can Integrate with Django
 
-#### :point_right:   :panda_face:  :ant:Graphic tools:+1:
+####    :panda_face:  :ant:Graphic tools:+1:
  
    -  D3 [javascript](https://d3js.org/)
 

@@ -10,7 +10,7 @@ remote access data desktop
  
  ### Can Integrate with Django
 
-#### :panda_face:  :ant:Graphic tools:+1:
+#### :point_right:   :panda_face:  :ant:Graphic tools:+1:
  
    -  D3 [javascript](https://d3js.org/)
 
@@ -19,4 +19,6 @@ remote access data desktop
    -  [Chart js](https://www.chartjs.org/)
 
    -  [0to255](www.0to255.com/)
+   
+   ### :point_right:   Github Emoji [cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/):bowtie:
 

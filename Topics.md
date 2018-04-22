@@ -21,4 +21,10 @@ remote access data desktop
    -  [0to255](www.0to255.com/)
    
    ### :point_right:   Github Emoji [cheatsheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/):bowtie:
+   
+   
+   ### :point_right:   Wysiwyg editors :clipboard:
+   -   Super Simple WYSIWYG Editor on Bootstrap [Summernote](summernote.org/) is a JavaScript library that helps you create WYSIWYG editors online.
 
+   -   [GetContentTools](getcontenttools.com/
+) is a collection of small, flexible, extensible and framework agnostic JavaScript libraries for creating beautiful WYSIWYG editors for HTML content.
